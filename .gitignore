@@ -1,0 +1,8 @@
+/packages
+/.vs
+/MODILib/obj
+/MODILib/bin
+/OCR/obj
+/OCR/bin
+/TessecratLib/bin
+/TessecratLib/obj
